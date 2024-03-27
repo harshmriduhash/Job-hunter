@@ -18,7 +18,7 @@ function JobSeekers() {
         </div>
         <div>
           <h3 className="text-4xl font-semibold mr-4 md:mr-20 my-7 ">
-            Why job seekers love us
+            Why job seekers love us, No Seriously
           </h3>
         </div>
 
