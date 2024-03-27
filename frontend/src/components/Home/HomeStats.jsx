@@ -5,7 +5,7 @@ function HomeStats() {
     <div className="px-10 pt-10">
       <div className="grid md:grid-cols-3">
         <div className="flex flex-col gap-1 md:border border-gray-300 border-l-transparent justify-center items-center text-red-500 font-semibold text-3xl md:text-4xl py-10 md:py-16">
-          130K +<span className="text-base md:text-2xl">Tech Jobs</span>
+          150K +<span className="text-base md:text-2xl">Tech Jobs</span>
         </div>
 
         <div className="flex flex-col gap-1 md:border border-gray-300 border-l-transparent border-r-transparent justify-center items-center text-pink-600 font-semibold text-3xl md:text-4xl py-10 md:py-16">
