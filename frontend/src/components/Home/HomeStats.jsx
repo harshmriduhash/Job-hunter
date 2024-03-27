@@ -12,7 +12,7 @@ function HomeStats() {
           6,000,000 <span className="text-base md:text-2xl">Matches Made </span>
         </div>
         <div className="flex flex-col gap-1 md:border border-gray-300 border-r-transparent justify-center items-center text-purple-800 font-semibold text-3xl md:text-4xl py-16">
-          8M +{" "}
+          10M +{" "}
           <span className="text-base md:text-2xl">
             Startup-ready candidates
           </span>
