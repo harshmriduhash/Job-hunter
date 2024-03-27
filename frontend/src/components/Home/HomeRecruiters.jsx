@@ -46,7 +46,7 @@ function HomeRecruiters() {
             <p>
               Plus, we can do the vetting for you! With <u>Curated</u>, we
               review the world's top tech talent and highlight candidates
-              directly to you 2x a week.
+              directly to you 2 times a week.
             </p>
           </div>
         </div>
