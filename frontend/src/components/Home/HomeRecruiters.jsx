@@ -45,7 +45,7 @@ function HomeRecruiters() {
           <div className="flex items-center justify-center gap-4">
             <p>
               Plus, we can do the vetting for you! With <u>Curated</u>, we
-              review the  top tech talent and highlight candidates
+              review the top tech talent and highlight candidates
               directly to you 2 times a week.
             </p>
           </div>
