@@ -38,7 +38,7 @@ function HomeRecruiters() {
             <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d71287316a7e63c1_Template.svg" />
             <p>
               A free
-              <span className="font-semibold">Applicant Tracking System,</span>
+              <span className="font-semibold"> Applicant Tracking System,</span>
               or free integration with any ATS you may already use
             </p>
           </div>
