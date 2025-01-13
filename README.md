@@ -22,8 +22,7 @@ Jobhunter caters to the needs of both job seekers and employers with specialized
 
 3. **AI-Powered Personalized Job Descriptions:** Jobhunter leverages advanced AI technology to generate highly optimized and personalized job descriptions. This feature ensures that job postings are tailored to attract the most suitable candidates, thereby increasing the efficiency of the recruitment process. This is a unique feature that sets Jobhunter apart in the job search market.
 
-## Live Demo
-
+**## Live Demo**:- https://job-hunter-pearl.vercel.app/
 
 ## Features
 
