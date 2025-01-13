@@ -6,8 +6,7 @@
 2. [Live Demo](#live-demo)
 3. [Features](#features)
 4. [Tech Stack](#tech-stack)
-5. [Screenshots](#screenshots)
-6. [Contributors](#contributors)
+5. [Contributors](#contributors)
 
 ## About Jobhunter
 
