@@ -3,8 +3,7 @@
 ## Table of Contents
 
 1. [About Gighunter](#about-Gighunter)
-2. [Live Demo](#live-demo)
-3. [Features](#features)
+2. [Features](#features)
 4. [Tech Stack](#tech-stack)
 5. [Contributors](#contributors)
 
