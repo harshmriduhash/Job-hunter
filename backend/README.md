@@ -1,1 +1,1 @@
-### JobHunter backend
+### GigHunter backend

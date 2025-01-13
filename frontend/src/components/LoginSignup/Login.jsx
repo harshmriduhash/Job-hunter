@@ -76,7 +76,7 @@ function Login() {
             className="w-10 rounded-lg mr-3"
             alt="JobHunter Logo"
           />
-          / jobhunter
+          / GigHunter
         </Link>
       </div>
       <div className="flex flex-col sm:flex-row">

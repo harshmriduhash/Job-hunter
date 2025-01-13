@@ -1,26 +1,26 @@
-# Jobhunter - Bridging Careers and Companies
+# Gighunter - Bridging Careers and Companies
 
 ## Table of Contents
 
-1. [About Jobhunter](#about-jobhunter)
+1. [About Gighunter](#about-Gighunter)
 2. [Live Demo](#live-demo)
 3. [Features](#features)
 4. [Tech Stack](#tech-stack)
 5. [Contributors](#contributors)
 
-## About Jobhunter
+## About Gighunter
 
-Welcome to **Jobhunter**, where career aspirations meet corporate opportunities. Jobhunter is a dynamic platform designed to facilitate seamless connections between talented individuals and prospective employers. Whether you're a job seeker exploring new opportunities or an employer seeking top talent, Jobhunter provides the tools you need to succeed.
+Welcome to **Gighunter**, where career aspirations meet corporate opportunities. Gighunter is a dynamic platform designed to facilitate seamless connections between talented individuals and prospective employers. Whether you're a job seeker exploring new opportunities or an employer seeking top talent, Gighunter provides the tools you need to succeed.
 
 ### Specializations
 
-Jobhunter caters to the needs of both job seekers and employers with specialized features:
+Gighunter caters to the needs of both job seekers and employers with specialized features:
 
-1. **Job Seekers:** Explore a diverse range of job listings tailored to your skills and preferences. Jobhunter offers a user-friendly interface to simplify your job search journey.
+1. **Job Seekers:** Explore a diverse range of job listings tailored to your skills and preferences. Gighunter offers a user-friendly interface to simplify your job search journey.
 
-2. **Employers:** Gain access to a comprehensive dashboard designed for efficient recruitment. Post jobs, manage applications, and find the perfect candidates effortlessly with Jobhunter's employer-centric features.
+2. **Employers:** Gain access to a comprehensive dashboard designed for efficient recruitment. Post jobs, manage applications, and find the perfect candidates effortlessly with Gighunter's employer-centric features.
 
-3. **AI-Powered Personalized Job Descriptions:** Jobhunter leverages advanced AI technology to generate highly optimized and personalized job descriptions. This feature ensures that job postings are tailored to attract the most suitable candidates, thereby increasing the efficiency of the recruitment process. This is a unique feature that sets Jobhunter apart in the job search market.
+3. **AI-Powered Personalized Job Descriptions:** Gighunter leverages advanced AI technology to generate highly optimized and personalized job descriptions. This feature ensures that job postings are tailored to attract the most suitable candidates, thereby increasing the efficiency of the recruitment process. This is a unique feature that sets Gighunter apart in the job search market.
 
 **## Live Demo**:- https://job-hunter-pearl.vercel.app/
 

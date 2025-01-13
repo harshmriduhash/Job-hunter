@@ -68,7 +68,7 @@ function DashboardSidebar() {
               className="w-10 rounded-lg mr-3"
               alt="JobHunter Logo"
             />
-            <span className="hidden xl:block"> / jobhunter </span>
+            <span className="hidden xl:block"> / GigHunter </span>
           </Link>
         </div>
       </div>

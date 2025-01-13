@@ -60,7 +60,7 @@ function Navbar() {
               className="w-10 rounded-lg mr-3"
               alt="JobHunter Logo"
             />
-            / jobhunter
+            / Gighunter
           </Link>
         </div>
 
