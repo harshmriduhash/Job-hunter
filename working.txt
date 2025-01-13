@@ -1,5 +1,6 @@
-Overview:-
-What Does It Do?
+Overview:-What Does It Do?
+
+
 GigHunter is a dynamic platform designed to facilitate seamless connections between talented individuals and prospective employers. It provides tools for job seekers to explore new opportunities and for employers to find top talent. The platform offers features such as job search and filtering, profile management, application tracking, employer dashboards, and AI-powered job description generation.
 
 How Does It Work?:-
