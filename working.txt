@@ -38,7 +38,7 @@ Monitoring Tools: Use monitoring tools like Prometheus and Grafana to keep track
 Logging: Implement centralized logging using tools like ELK Stack (Elasticsearch, Logstash, Kibana) to analyze and troubleshoot issues.
 By implementing these strategies, GigHunter can handle increased traffic, improve performance, and ensure a seamless user experience as it scales.
 
-How is AI working on this?
+****How is AI working on this?
 
 AI Integration in GigHunter
 The AI component in GigHunter is primarily used for generating job descriptions. Here's how it works:
