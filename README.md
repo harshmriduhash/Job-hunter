@@ -16,13 +16,11 @@ Welcome to **Gighunter**, where career aspirations meet corporate opportunities.
 
 Gighunter caters to the needs of both job seekers and employers with specialized features:
 
-1. **Job Seekers:** Explore a diverse range of job listings tailored to your skills and preferences. Gighunter offers a user-friendly interface to simplify your job search journey.
+1. **Gig Seekers:** Explore a diverse range of freelance listings tailored to your skills and preferences. Gighunter offers a user-friendly interface to simplify your freelance work search journey.
 
-2. **Employers:** Gain access to a comprehensive dashboard designed for efficient recruitment. Post jobs, manage applications, and find the perfect candidates effortlessly with Gighunter's employer-centric features.
+2. **Employers:** Gain access to a comprehensive dashboard designed for efficient recruitment. Post Gigs, manage applications, and find the perfect candidates effortlessly with Gighunter's employer-centric features.
 
-3. **AI-Powered Personalized Job Descriptions:** Gighunter leverages advanced AI technology to generate highly optimized and personalized job descriptions. This feature ensures that job postings are tailored to attract the most suitable candidates, thereby increasing the efficiency of the recruitment process. This is a unique feature that sets Gighunter apart in the job search market.
-
-**## Live Demo**:- https://job-hunter-pearl.vercel.app/
+3. **AI-Powered Personalized Job Descriptions:** Gighunter leverages advanced AI technology to generate highly optimized and personalized job descriptions. This feature ensures that postings are tailored to attract the most suitable candidates, thereby increasing the efficiency of the recruitment process. This is a unique feature that sets Gighunter apart in the job search market.
 
 ## Features
 
